@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The outer layer must be exactly 108dp for adaptive icons -->
+    <item
+        android:width="108dp"
+        android:height="108dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+
+    <!-- Reducing the logo to 44dp to ensure it's never cropped by the circle mask -->
+    <item
+        android:drawable="@drawable/img"
+        android:width="44dp"
+        android:height="44dp"
+        android:gravity="center" />
+</layer-list>

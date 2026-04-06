@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pet Care Reminder</string>
+    <string name="welcome_title">Pet Care Reminder App</string>
+    <string name="team_names">Team: Syed, Chandan K, Kamal</string>
+    <string name="btn_start">Start App</string>
+    <string name="main_title">Daily Task Checklist</string>
+    <string name="btn_add_task">Add New Task</string>
+    <string name="add_task_title">Add Pet Care Task</string>
+    <string name="et_task_name_hint">Task Name (e.g., Feed Buddy)</string>
+    <string name="btn_pick_time">Pick Time</string>
+    <string name="no_time_selected">No time selected</string>
+    <string name="btn_save_task">Save Task</string>
+</resources>
