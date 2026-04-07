@@ -6,7 +6,7 @@ PetCare is an Android application designed to help users manage tasks related to
 
 ● Add pet care tasks
 
-● Feeding & vaccination reminders
+● Feeding & vaccination reminders     
 
 ● Mark tasks complete
 
@@ -44,4 +44,4 @@ PetCare is an Android application designed to help users manage tasks related to
 
 Syed Sajid
 
-maam Kamal.V
+Kamal.V
