@@ -40,8 +40,8 @@ PetCare is an Android application designed to help users manage tasks related to
 
 ## Team
 
-Sir Chandan.K
+ Chandan.K
 
-Sir Syed Sajid
+Syed Sajid
 
-Kamal.V
+maam Kamal.V
