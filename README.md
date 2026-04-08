@@ -38,9 +38,10 @@ PetCare is an Android application designed to help users manage tasks related to
 └── README.md
 ```
 
+
 ## Team
 
- Chandan.K
+Chandan.K
 
 Syed Sajid
 
