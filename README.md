@@ -32,7 +32,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 
 | Home Screen | Add Transaction | Monthly Report |
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Clone the Repository**
     ```bash
@@ -57,25 +57,14 @@
 3.  **Sync Gradle**
     Wait for Android Studio to sync dependencies.
 4.  **Run**
-    Connect your physical device via USB or start an emulator and click the **Run (▶️)** button.
+    Connect your physical device via USB or start an emulator and click the **Run ** button.
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - [ ] **Firebase Integration:** For cloud synchronization and user authentication.
 - [ ] **Data Visualization:** Integration of Pie and Bar charts for expense analytics.
-- [ ] **Dark Mode Support:** System-wide dark theme compatibility 🌙.
-- [ ] **Data Export:** Generate and export financial reports in PDF or Excel formats.
+- [ ] **Dark Mode Support:** System-wide dark theme compatibility .
 
----
 
-## 👨‍💻 Author
-
-**Nandeesh N K**   **GitHub:** [@nandeesh2799](https://github.com/nandeesh2799)
-
----
-
-## ⭐ Support
-
-If you find this project useful, please consider giving it a **Star** on GitHub!
