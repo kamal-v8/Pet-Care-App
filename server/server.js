@@ -21,6 +21,11 @@ app.use(express.json());
 
 app.use((req, res, next) => {
 	console.log(req.path, req.method);
+    res.on('finish', () => {
+        if (res.statusCode >= 400) {
+            console.log(`ERROR: ${req.method} ${req.path} -> Status: ${res.statusCode}`);
+        }
+    });
 	next();
 });
 

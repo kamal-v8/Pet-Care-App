@@ -8,9 +8,7 @@ const getTypeOfLabCount = async (req, res) => {
 		.sort({ dateTaken: 1 })
 		.then((labCount) => {
 			if (!labCount.length) {
-				return res
-					.status(404)
-					.json({ success: false, error: `LabCount not found` });
+				return res.status(200).json({ success: true, data: [] });
 			}
 			return res.status(200).json({ success: true, data: labCount });
 		})
